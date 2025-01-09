@@ -1,3 +1,4 @@
+![alt text](eventdriven.png)
 NBA Game Day Notifications / Sports Alerts System
 
 Project Overview
