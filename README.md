@@ -42,7 +42,7 @@ Setup Instructions
 
 1. Clone the Repository
 
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
+git clone https://github.com/Ayindejamiu/NBA_game_day_event_driven.git
 cd game-day-notifications
 
 2. Create an SNS Topic
